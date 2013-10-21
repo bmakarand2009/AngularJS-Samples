@@ -22,7 +22,8 @@ ngResource Module - ngResource module allows to communite with REST Services.
 you need to declare it as a dependency on the ngController
 so e.g angular.module('Contacts',['ngResource'], also ngresource does not come as a part and parcel of angular,<br>
 so need to import it    angular-resource.js. <br>
-With this we get a $resource object which lets u declare services we can access on the server
+With this we get a $resource object which lets u declare services we can access on the server<br>
+e.g var Contact = $resource('/api/contact');
             
 
 
