@@ -21,7 +21,8 @@ $location - Angular provides this service which  Exposes the current url in the 
 ngResource Module - ngResource module allows to communite with REST Services.
 you need to declare it as a dependency on the ngController
 so e.g angular.module('Contacts',['ngResource'], also ngresource does not come as a part and parcel of angular,<br>
-so need to import it    angular-resource.js
+so need to import it    angular-resource.js. <br>
+With this we get a $resource object which lets u declare services we can access on the server
             
 
 
