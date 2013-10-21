@@ -15,6 +15,13 @@ Notes
 
 $location - Angular provides this service which  Exposes the current url in the browser <br>
             address bar, so you can watch,observe and change the URL. <br>
-            e.g $location.path("/") will redirect the users back to home page
+            e.g $location.path("/").replace() will redirect the users back to home page
+            .replace() bascially delete the history part of it
+            
+ngResource Module - ngResource module allows to communite with REST Services.
+you need to declare it as a dependency on the ngController
+so e.g angular.module('Contacts',['ngResource'], also ngresource does not come as a part and parcel of angular,<br>
+so need to import it    angular-resource.js
+            
 
 
