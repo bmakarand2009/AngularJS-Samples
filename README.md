@@ -10,6 +10,8 @@ Free Tutorial Videos - http://egghead.io/lessons <br>
 Angular Examples    - https://github.com/angular/angular.js/wiki/JsFiddle-Examples <br>
 http://docs.angularjs.org/cookbook/advancedform <br>
 
+Fantastic Series to clear all your concepts of angular - http://www.ng-newsletter.com/posts/directives.html <br>
+
 
 Notes
 =====
