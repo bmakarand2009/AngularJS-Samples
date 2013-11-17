@@ -18,6 +18,29 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
  http://www.artandlogic.com/blog/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
 
 
+
+angular.copy
+angular.element
+angular.equals
+angular.extend
+angular.forEach
+angular.fromJson
+angular.identity
+angular.isArray
+angular.isDate
+angular.isDefined
+angular.isElement
+angular.isFunction
+angular.isNumber
+angular.isObject
+angular.isString
+angular.isUndefined
+angular.lowercase
+angular.noop
+angular.toJson
+angular.uppercase
+Companion Libra
+
 Notes
 =====
 
