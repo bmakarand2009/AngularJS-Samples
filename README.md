@@ -12,6 +12,10 @@ http://docs.angularjs.org/cookbook/advancedform <br>
 
 Fantastic Series to clear all your concepts of angular - http://www.ng-newsletter.com/posts/directives.html <br>
  http://www.ng-newsletter.com/posts/beginner2expert-directives.html
+ 
+ AngularJS Videos - http://www.angularjsdaily.com/
+ 
+ http://www.artandlogic.com/blog/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
 
 
 Notes
