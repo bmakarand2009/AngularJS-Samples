@@ -16,6 +16,10 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
  AngularJS Videos - http://www.angularjsdaily.com/
  
  http://www.artandlogic.com/blog/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
+ 
+ 
+ FastCreate and Initialize your application with Yeoman,Grunt,Bower
+ http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
 
 
 
