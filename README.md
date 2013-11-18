@@ -20,6 +20,9 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
  
  FastCreate and Initialize your application with Yeoman,Grunt,Bower
  http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
+ 
+ FORM Validation
+ http://sravi-kiran.blogspot.in/2013/02/FormValidationUsingAngularJS.html
 
 
 
