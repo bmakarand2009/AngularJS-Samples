@@ -23,6 +23,9 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
  
  FORM Validation
  http://sravi-kiran.blogspot.in/2013/02/FormValidationUsingAngularJS.html
+ 
+ Regular Express for US and Canadian Zip Codes
+ http://geekswithblogs.net/MainaD/archive/2007/12/03/117321.aspx
 
 
   Adding list/muipleple entry to a email/branhces/phone
