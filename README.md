@@ -25,6 +25,9 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
  http://sravi-kiran.blogspot.in/2013/02/FormValidationUsingAngularJS.html
 
 
+  Adding list/muipleple entry to a email/branhces/phone
+  http://docs.angularjs.org/cookbook/advancedform
+
 
 angular.copy
 angular.element
