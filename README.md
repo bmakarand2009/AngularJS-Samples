@@ -31,6 +31,8 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
   Adding list/muipleple entry to a email/branhces/phone
   http://docs.angularjs.org/cookbook/advancedform
 
+
+
 If you want to make a ajax request while user is typing on the form and have a timeout so that for a second
 http://mircozeiss.com/github-like-signup-form-with-angularjs-and-bootstrap-v3/
 
@@ -71,5 +73,9 @@ so need to import it    angular-resource.js. <br>
 With this we get a $resource object which lets u declare services we can access on the server<br>
 e.g var Contact = $resource('/api/contact');
             
+            <br>
+            
+directives
+http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/
 
 
