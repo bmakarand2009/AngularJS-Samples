@@ -78,4 +78,7 @@ e.g var Contact = $resource('/api/contact');
 directives
 http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/
 
+jsfiddle examples
+http://jsfiddle.net/lucassus/bpTXe/ - TODO LIst example
+
 
