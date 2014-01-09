@@ -31,6 +31,10 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
   Adding list/muipleple entry to a email/branhces/phone
   http://docs.angularjs.org/cookbook/advancedform
 
+Nice to Have 3rd Party Services
+=============================
+toastr.js for notifications
+fundoo.services.createDialog.js - Fundoo-Solutions / angularjs-modal-service (github)
 
 
 If you want to make a ajax request while user is typing on the form and have a timeout so that for a second
