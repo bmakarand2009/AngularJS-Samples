@@ -30,6 +30,9 @@ Fantastic Series to clear all your concepts of angular - http://www.ng-newslette
 
   Adding list/muipleple entry to a email/branhces/phone
   http://docs.angularjs.org/cookbook/advancedform
+  
+  Understanding angularjs service types
+  http://angular-tips.com/blog/2013/08/understanding-service-types/
 
 Nice to Have 3rd Party Services
 =============================
